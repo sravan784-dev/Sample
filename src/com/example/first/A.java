@@ -3,13 +3,17 @@ package com.example.first;
 public class A {
 
 	public static void main(String[] args) {
-		
-		System.out.prinln("third commit");
-		System.out.println("this is the first commit");
-		System.out.println("second commit");
-
 		System.out.println("***************");
 		System.out.prinln("omsairamji");
+		System.out.prinln("first commit");
+		System.out.prinln("second commit");
+		System.out.prinln("third commit");
+		System.out.println("***************");
+		System.out.prinln("omsairamji");
+		
+		
+
+		
 
 
 	}
